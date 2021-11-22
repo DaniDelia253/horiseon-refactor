@@ -21,15 +21,15 @@ This site lists and describes all of the services they offer, and it outlines th
 ## Usage
 
 Use the links at the top of the page to navagate the landing page:
-![Header Imange with navigation links](./)
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```
-![alt text](assets/images/screenshot.png)
-```
+![Header with navigation links](./assets/images/screenshot-header.png)
+* **Horiseon** link loads the main manding page
+    ![Landing Page](./assets/images/screenshot-full-page.png)
+* **Search Engine Optimization** link jumps to the section of the page that describes Search Engine Optimization services
+    ![Search Engine Optimization Section](./assets/images/screenshot-seo.png)
+* **Online Reputation Management** link jumps to the section of the page that describes Online Reputation Management
+    ![Online Reputation Management Section](./assets/images/screenshot-orm.png)
+* **Social Media Marketing** link jumps to the section of the page that describes Social Media Marketing services
+    ![Social Media Marketing Section](./assets/images/screenshot-smm.png)
 
 
 ## Credits
